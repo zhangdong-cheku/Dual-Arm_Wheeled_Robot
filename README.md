@@ -1,4 +1,4 @@
-# Dual-Arm_Wheeled_Robot
+# Dual-Arm_Wheeled_Robot（目前正处于研发中，文件会陆续上传）
 
 双臂轮式机器人Dual-Arm Wheeled Robot 它是一种集成了全向移动底盘和两条仿人机械臂的机器人系统。其核心设计理念是模仿人类的“身体”结构：用双腿移动，用双手操作。轮式底盘替代了双腿，提供了在平坦环境下的高效移动能力。 双臂轮式机器人是机器人技术集成化的巅峰体现之一。它不再是单一功能的工具，而是一个朝着通用型、自主化智能体方向发展的多面手。
 
@@ -194,3 +194,7 @@ Space and deep-sea operations
 Space station robots: Such as future cabin assistants on space stations, they assist astronauts in completing daily maintenance and experimental operations, and stabilize themselves and manipulate objects in a microgravity environment. 
 
 Deep-sea exploration: Operating tools on the ocean floor to collect geological and biological samples.
+
+## 加入社区
+<p align="center">  
+  <img src="QQ群/QQ群.png" width="400"/>
